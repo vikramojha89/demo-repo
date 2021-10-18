@@ -11,8 +11,7 @@ This is suheader.
 
 This is local development.
 
-<<<<<<< HEAD
 ## Some quick test
-=======
+
 ## One more quick test form main
->>>>>>> main
+
